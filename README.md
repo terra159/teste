@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-	oi prof
+	<title>oi prof</title> 
 	<meta charset="utf-8"> 
 </head>
 <body>
@@ -10,4 +10,5 @@
 		<em>n gostei mo esquecito</em>
 	<h3>entao é isso</h3>
 <body>
+	<img src="bob esponja.jpg" alt="" srcset="">
 </html>
